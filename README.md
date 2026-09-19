@@ -4,7 +4,7 @@ An experimental slider using SVG clip-path feature and animations powered by Sna
 
 [DEMO](http://lmgonzalves.github.io/elastic-slider)
 
-[Article](http://x-team.com/2016/06/making-elastic-slider-scratch/)
+[Article](https://web.archive.org/web/20160713164551/http://x-team.com/2016/06/making-elastic-slider-scratch/)
 
 ## Usage
 
